@@ -1,4 +1,4 @@
-# commendes souvent utilisé
+# Description
 
 add . --> qui permet d'ajouter des modifs qu'on a fait en local en un ppacket pret a envoyer
 
